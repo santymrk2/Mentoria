@@ -49,7 +49,7 @@ a {
 .barra{
     display: flex;
     justify-content: space-around;
-    background: #c62644;
+    background: #2563EB;
     height: 100px;
     width: 100%;
 }
