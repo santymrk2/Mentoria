@@ -9,11 +9,6 @@
     clear: both;
 }
 
-
-.logo{
-   width: 160px; 
-}
-
 .br-stormblue{
     --tw-bg-opacity: 1;
 background-color: rgba(24, 47, 83, var(--tw-bg-opacity));
@@ -45,4 +40,5 @@ background-color: rgba(156, 55, 37, var(--tw-bg-opacity));
     font-family: 'Montserrat';
     font-weight: 700;
 }
+
 
